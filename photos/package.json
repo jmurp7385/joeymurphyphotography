@@ -10,7 +10,7 @@
     "@types/node": "^12.6.2",
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-360-web": "^1.1.0",
     "react-app-rewire-hot-loader": "^2.0.1",
